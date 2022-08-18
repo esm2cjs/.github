@@ -20,6 +20,19 @@ async function main(param) {
 
   let output = "";
   for (const repo of repos.sort((a, b) => a.name.localeCompare(b.name))) {
+    // Check if package.json is already using our scope (or if this is a WIP)
+    const { data: contents } = await github.rest.repos.getContent({
+      owner: "esm2cjs",
+      repo: repo.name,
+      path: "package.json",
+    });
+    if (contents.type === "file" && "content" in contents) {
+      const packageJson = JSON.parse(
+        Buffer.from(contents.content, "base64").toString()
+      );
+      if (!packageJson.name.includes("@esm2cjs/")) continue;
+    }
+
     output += `* [\`@${repo.full_name}\`](${repo.html_url})`;
     const { data: details } = await github.rest.repos.get({
       owner: "esm2cjs",
