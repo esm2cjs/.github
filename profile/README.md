@@ -17,5 +17,4 @@ Contributors are always welcome!
 * [`@esm2cjs/onetime`](https://github.com/esm2cjs/onetime) - Forked from [sindresorhus/onetime](https://github.com/sindresorhus/onetime)
 * [`@esm2cjs/path-key`](https://github.com/esm2cjs/path-key) - Forked from [sindresorhus/path-key](https://github.com/sindresorhus/path-key)
 * [`@esm2cjs/strip-final-newline`](https://github.com/esm2cjs/strip-final-newline) - Forked from [sindresorhus/strip-final-newline](https://github.com/sindresorhus/strip-final-newline)
-<!-- fake -->
 <!-- END PACKAGES -->
