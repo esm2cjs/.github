@@ -1,0 +1,37 @@
+name: 'Update packages list'
+
+on:
+  schedule:
+    - cron: 0 2 * * * # Every day at 03:00
+  workflow_dispatch: # Manually on demand
+
+jobs:
+  # Notify issue author when they post the wrong log
+  update-list:
+    runs-on: [ubuntu-latest]
+
+    steps:
+    - name: Checkout master branch
+      uses: actions/checkout@v3
+
+    - name: Generate new list
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          const update = require(`${process.env.GITHUB_WORKSPACE}/.github/update-list.js`);
+          return update({github, context});
+
+    - name: Commit changes
+      run: |
+        if ! git diff --quiet ; then
+          git config user.email "d.griesel@gmx.net"
+          git config user.name "AlCalzone"
+          git add profile/README.md
+          git commit -m "chore: update package list"
+          git push
+          echo "Pushed changes"
+        else
+          echo "No changes"
+          exit 0
+        fi
