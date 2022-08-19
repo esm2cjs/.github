@@ -10,7 +10,9 @@ Contributors are always welcome!
 ## Packages
 <!-- BEGIN PACKAGES -->
 * [`@esm2cjs/execa`](https://github.com/esm2cjs/execa) - Forked from [sindresorhus/execa](https://github.com/sindresorhus/execa)
+* [`@esm2cjs/fetch-blob`](https://github.com/esm2cjs/fetch-blob) - Forked from [node-fetch/fetch-blob](https://github.com/node-fetch/fetch-blob)
 * [`@esm2cjs/form-data-encoder`](https://github.com/esm2cjs/form-data-encoder) - Forked from [octet-stream/form-data-encoder](https://github.com/octet-stream/form-data-encoder)
+* [`@esm2cjs/FormData`](https://github.com/esm2cjs/FormData) - Forked from [jimmywarting/FormData](https://github.com/jimmywarting/FormData)
 * [`@esm2cjs/got`](https://github.com/esm2cjs/got) - Forked from [sindresorhus/got](https://github.com/sindresorhus/got)
 * [`@esm2cjs/http-timer`](https://github.com/esm2cjs/http-timer) - Forked from [szmarczak/http-timer](https://github.com/szmarczak/http-timer)
 * [`@esm2cjs/human-signals`](https://github.com/esm2cjs/human-signals) - Forked from [ehmicky/human-signals](https://github.com/ehmicky/human-signals)
@@ -18,6 +20,8 @@ Contributors are always welcome!
 * [`@esm2cjs/is-stream`](https://github.com/esm2cjs/is-stream) - Forked from [sindresorhus/is-stream](https://github.com/sindresorhus/is-stream)
 * [`@esm2cjs/lowercase-keys`](https://github.com/esm2cjs/lowercase-keys) - Forked from [sindresorhus/lowercase-keys](https://github.com/sindresorhus/lowercase-keys)
 * [`@esm2cjs/mimic-fn`](https://github.com/esm2cjs/mimic-fn) - Forked from [sindresorhus/mimic-fn](https://github.com/sindresorhus/mimic-fn)
+* [`@esm2cjs/node-data-uri-to-buffer`](https://github.com/esm2cjs/node-data-uri-to-buffer) - Forked from [TooTallNate/node-data-uri-to-buffer](https://github.com/TooTallNate/node-data-uri-to-buffer)
+* [`@esm2cjs/node-fetch`](https://github.com/esm2cjs/node-fetch) - Forked from [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch)
 * [`@esm2cjs/npm-run-path`](https://github.com/esm2cjs/npm-run-path) - Forked from [sindresorhus/npm-run-path](https://github.com/sindresorhus/npm-run-path)
 * [`@esm2cjs/onetime`](https://github.com/esm2cjs/onetime) - Forked from [sindresorhus/onetime](https://github.com/sindresorhus/onetime)
 * [`@esm2cjs/p-cancelable`](https://github.com/esm2cjs/p-cancelable) - Forked from [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable)
