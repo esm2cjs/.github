@@ -11,11 +11,13 @@ Contributors are always welcome!
 <!-- BEGIN PACKAGES -->
 * [`@esm2cjs/aggregate-error`](https://github.com/esm2cjs/aggregate-error) - Forked from [sindresorhus/aggregate-error](https://github.com/sindresorhus/aggregate-error)
 * [`@esm2cjs/clean-stack`](https://github.com/esm2cjs/clean-stack) - Forked from [sindresorhus/clean-stack](https://github.com/sindresorhus/clean-stack)
+* [`@esm2cjs/del`](https://github.com/esm2cjs/del) - Forked from [sindresorhus/del](https://github.com/sindresorhus/del)
 * [`@esm2cjs/escape-string-regexp`](https://github.com/esm2cjs/escape-string-regexp) - Forked from [sindresorhus/escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp)
 * [`@esm2cjs/execa`](https://github.com/esm2cjs/execa) - Forked from [sindresorhus/execa](https://github.com/sindresorhus/execa)
 * [`@esm2cjs/fetch-blob`](https://github.com/esm2cjs/fetch-blob) - Forked from [node-fetch/fetch-blob](https://github.com/node-fetch/fetch-blob)
 * [`@esm2cjs/form-data-encoder`](https://github.com/esm2cjs/form-data-encoder) - Forked from [octet-stream/form-data-encoder](https://github.com/octet-stream/form-data-encoder)
 * [`@esm2cjs/FormData`](https://github.com/esm2cjs/FormData) - Forked from [jimmywarting/FormData](https://github.com/jimmywarting/FormData)
+* [`@esm2cjs/globby`](https://github.com/esm2cjs/globby) - Forked from [sindresorhus/globby](https://github.com/sindresorhus/globby)
 * [`@esm2cjs/got`](https://github.com/esm2cjs/got) - Forked from [sindresorhus/got](https://github.com/sindresorhus/got)
 * [`@esm2cjs/http-timer`](https://github.com/esm2cjs/http-timer) - Forked from [szmarczak/http-timer](https://github.com/szmarczak/http-timer)
 * [`@esm2cjs/human-signals`](https://github.com/esm2cjs/human-signals) - Forked from [ehmicky/human-signals](https://github.com/ehmicky/human-signals)
