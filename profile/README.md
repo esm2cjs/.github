@@ -7,6 +7,8 @@ Maintaining a hybrid ESM/CommonJS package is not hard and can actually be automa
 
 Contributors are always welcome!
 
+Is a package missing? Please request it [here](https://github.com/esm2cjs/.github/issues/2).
+
 ## Packages
 <!-- BEGIN PACKAGES -->
 * [`@esm2cjs/aggregate-error`](https://github.com/esm2cjs/aggregate-error) - Forked from [sindresorhus/aggregate-error](https://github.com/sindresorhus/aggregate-error)
