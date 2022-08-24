@@ -35,8 +35,10 @@ Is a package missing? Please request it [here](https://github.com/esm2cjs/.githu
 * [`@esm2cjs/npm-run-path`](https://github.com/esm2cjs/npm-run-path) - Forked from [sindresorhus/npm-run-path](https://github.com/sindresorhus/npm-run-path)
 * [`@esm2cjs/onetime`](https://github.com/esm2cjs/onetime) - Forked from [sindresorhus/onetime](https://github.com/sindresorhus/onetime)
 * [`@esm2cjs/p-cancelable`](https://github.com/esm2cjs/p-cancelable) - Forked from [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable)
+* [`@esm2cjs/p-limit`](https://github.com/esm2cjs/p-limit) - Forked from [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit)
 * [`@esm2cjs/p-map`](https://github.com/esm2cjs/p-map) - Forked from [sindresorhus/p-map](https://github.com/sindresorhus/p-map)
 * [`@esm2cjs/path-key`](https://github.com/esm2cjs/path-key) - Forked from [sindresorhus/path-key](https://github.com/sindresorhus/path-key)
 * [`@esm2cjs/slash`](https://github.com/esm2cjs/slash) - Forked from [sindresorhus/slash](https://github.com/sindresorhus/slash)
 * [`@esm2cjs/strip-final-newline`](https://github.com/esm2cjs/strip-final-newline) - Forked from [sindresorhus/strip-final-newline](https://github.com/sindresorhus/strip-final-newline)
+* [`@esm2cjs/yocto-queue`](https://github.com/esm2cjs/yocto-queue) - Forked from [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue)
 <!-- END PACKAGES -->
