@@ -18,12 +18,15 @@ jobs:
       uses: actions/github-script@v6
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
         script: |
           const update = require(`${process.env.GITHUB_WORKSPACE}/.github/update-list.js`);
           return update({github, context});
 
     - name: Commit changes
       run: |
+        git diff
+
         if ! git diff --quiet ; then
           git config user.email "d.griesel@gmx.net"
           git config user.name "AlCalzone"
