@@ -13,10 +13,14 @@ const listMarkerEnd = "<!-- END PACKAGES -->";
 async function main(param) {
   const { github, context } = param;
 
-  const { data: repos } = await github.rest.repos.listForOrg({
-    org: "esm2cjs",
-    type: "forks",
-  });
+  const repos = await github.paginate(
+    github.rest.repos.listForOrg,
+    {
+      org: "esm2cjs",
+      type: "forks",
+    },
+    (response) => response.data
+  );
 
   repos.sort((a, b) => a.name.localeCompare(b.name));
 
