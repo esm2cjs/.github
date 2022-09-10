@@ -12,6 +12,7 @@ Is a package missing? Please request it [here](https://github.com/esm2cjs/.githu
 ## Packages
 <!-- BEGIN PACKAGES -->
 * [`@esm2cjs/aggregate-error`](https://github.com/esm2cjs/aggregate-error) - Forked from [sindresorhus/aggregate-error](https://github.com/sindresorhus/aggregate-error)
+* [`@esm2cjs/cacheable-request`](https://github.com/esm2cjs/cacheable-request) - Forked from [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request)
 * [`@esm2cjs/clean-stack`](https://github.com/esm2cjs/clean-stack) - Forked from [sindresorhus/clean-stack](https://github.com/sindresorhus/clean-stack)
 * [`@esm2cjs/del`](https://github.com/esm2cjs/del) - Forked from [sindresorhus/del](https://github.com/sindresorhus/del)
 * [`@esm2cjs/escape-string-regexp`](https://github.com/esm2cjs/escape-string-regexp) - Forked from [sindresorhus/escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp)
@@ -33,8 +34,10 @@ Is a package missing? Please request it [here](https://github.com/esm2cjs/.githu
 * [`@esm2cjs/is-stream`](https://github.com/esm2cjs/is-stream) - Forked from [sindresorhus/is-stream](https://github.com/sindresorhus/is-stream)
 * [`@esm2cjs/lowercase-keys`](https://github.com/esm2cjs/lowercase-keys) - Forked from [sindresorhus/lowercase-keys](https://github.com/sindresorhus/lowercase-keys)
 * [`@esm2cjs/mimic-fn`](https://github.com/esm2cjs/mimic-fn) - Forked from [sindresorhus/mimic-fn](https://github.com/sindresorhus/mimic-fn)
+* [`@esm2cjs/mimic-response`](https://github.com/esm2cjs/mimic-response) - Forked from [sindresorhus/mimic-response](https://github.com/sindresorhus/mimic-response)
 * [`@esm2cjs/node-data-uri-to-buffer`](https://github.com/esm2cjs/node-data-uri-to-buffer) - Forked from [TooTallNate/node-data-uri-to-buffer](https://github.com/TooTallNate/node-data-uri-to-buffer)
 * [`@esm2cjs/node-fetch`](https://github.com/esm2cjs/node-fetch) - Forked from [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch)
+* [`@esm2cjs/normalize-url`](https://github.com/esm2cjs/normalize-url) - Forked from [sindresorhus/normalize-url](https://github.com/sindresorhus/normalize-url)
 * [`@esm2cjs/npm-run-path`](https://github.com/esm2cjs/npm-run-path) - Forked from [sindresorhus/npm-run-path](https://github.com/sindresorhus/npm-run-path)
 * [`@esm2cjs/onetime`](https://github.com/esm2cjs/onetime) - Forked from [sindresorhus/onetime](https://github.com/sindresorhus/onetime)
 * [`@esm2cjs/p-any`](https://github.com/esm2cjs/p-any) - Forked from [sindresorhus/p-any](https://github.com/sindresorhus/p-any)
@@ -46,6 +49,7 @@ Is a package missing? Please request it [here](https://github.com/esm2cjs/.githu
 * [`@esm2cjs/p-timeout`](https://github.com/esm2cjs/p-timeout) - Forked from [sindresorhus/p-timeout](https://github.com/sindresorhus/p-timeout)
 * [`@esm2cjs/path-key`](https://github.com/esm2cjs/path-key) - Forked from [sindresorhus/path-key](https://github.com/sindresorhus/path-key)
 * [`@esm2cjs/public-ip`](https://github.com/esm2cjs/public-ip) - Forked from [sindresorhus/public-ip](https://github.com/sindresorhus/public-ip)
+* [`@esm2cjs/responselike`](https://github.com/esm2cjs/responselike) - Forked from [sindresorhus/responselike](https://github.com/sindresorhus/responselike)
 * [`@esm2cjs/slash`](https://github.com/esm2cjs/slash) - Forked from [sindresorhus/slash](https://github.com/sindresorhus/slash)
 * [`@esm2cjs/strip-final-newline`](https://github.com/esm2cjs/strip-final-newline) - Forked from [sindresorhus/strip-final-newline](https://github.com/sindresorhus/strip-final-newline)
 * [`@esm2cjs/yocto-queue`](https://github.com/esm2cjs/yocto-queue) - Forked from [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue)
