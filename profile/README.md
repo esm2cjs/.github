@@ -12,6 +12,7 @@ Is a package missing? Please request it [here](https://github.com/esm2cjs/.githu
 ## Packages
 <!-- BEGIN PACKAGES -->
 * [`@esm2cjs/aggregate-error`](https://github.com/esm2cjs/aggregate-error) - Forked from [sindresorhus/aggregate-error](https://github.com/sindresorhus/aggregate-error)
+* [`@esm2cjs/cacheable-lookup`](https://github.com/esm2cjs/cacheable-lookup) - Forked from [szmarczak/cacheable-lookup](https://github.com/szmarczak/cacheable-lookup)
 * [`@esm2cjs/cacheable-request`](https://github.com/esm2cjs/cacheable-request) - Forked from [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request)
 * [`@esm2cjs/clean-stack`](https://github.com/esm2cjs/clean-stack) - Forked from [sindresorhus/clean-stack](https://github.com/sindresorhus/clean-stack)
 * [`@esm2cjs/del`](https://github.com/esm2cjs/del) - Forked from [sindresorhus/del](https://github.com/sindresorhus/del)
